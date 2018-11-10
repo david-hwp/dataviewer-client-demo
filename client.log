@@ -1,4 +1,0 @@
-[Date:]2018-11-10 20:28:54,083 [main Class:]com.hansight.dataviewer.client.Auth [Method:]login [Line:]48
-[WARN Message:]Incorrect sign
-[Date:]2018-11-10 20:29:22,705 [main Class:]com.hansight.dataviewer.client.Auth [Method:]login [Line:]45
-[INFO Message:]login success, the session is 85fbe312-74d4-4a3d-a806-cbf5c3349fef
